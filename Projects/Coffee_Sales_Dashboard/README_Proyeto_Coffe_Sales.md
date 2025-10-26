@@ -41,6 +41,16 @@ Identificar patrones de venta por tipo de producto, horario y método de pago, c
 
 ---
 
+## 🗺️ Modelo de Datos
+
+El modelo de datos consta de dos tablas relacionadas:  
+- **Horas** (dimensión temporal)  
+- **Coffee_sales** (transacciones)
+
+![Modelo de Datos](Modelo_Datos_Coffee_Sales.png)
+
+---
+
 ## 📊 Resultados esperados
 El dashboard final busca ofrecer una visión integral del comportamiento de ventas, facilitando la toma de decisiones estratégicas y la identificación de oportunidades de mejora.
 
